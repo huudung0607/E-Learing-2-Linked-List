@@ -1,0 +1,30 @@
+Ma : 123
+Ten : Huu Dung
+Ngay Sinh : 06/07/2006
+Email : huudung@.
+Dia Chi : Dien Lac
+SDT : 123123
+Ngay Cong : 12
+Luong : 12
+Thuc Linh : 144
+
+Ma : 001
+Ten : Huu Dung Dedede
+Ngay Sinh : 07/06/2006
+Email : huudung@.123
+Dia Chi : dien lac
+SDT : 123
+Ngay Cong : 11
+Luong : 123
+Thuc Linh : 1353
+
+Ma : 123
+Ten : Huu Dung
+Ngay Sinh : 06/07/2006
+Email : huudung@.
+Dia Chi : Dien Lac
+SDT : 123123
+Ngay Cong : 12
+Luong : 12
+Thuc Linh : 144
+
